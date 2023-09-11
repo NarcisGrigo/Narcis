@@ -1,0 +1,10 @@
+body {
+    color: red;
+    text-align: center;
+}
+
+li {
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+}
